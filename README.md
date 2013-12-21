@@ -1,3 +1,4 @@
+<!--- coding: utf-8; fill-column: 80 --->
 # epc4ruby
 
 * [Homepage](https://github.com/nibua-r/epc4ruby#readme)
@@ -7,7 +8,8 @@
 
 ## Description
 
-TODO: Description
+epc4ruby is a ruby implementation of the
+[Emacs RPC stack](https://github.com/kiwanami/emacs-epc).
 
 ## Features
 

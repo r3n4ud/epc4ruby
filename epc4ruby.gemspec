@@ -5,8 +5,8 @@ require File.expand_path('../lib/epc4ruby/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.name          = "epc4ruby"
   gem.version       = Epc4ruby::VERSION
-  gem.summary       = %q{TODO: Summary}
-  gem.description   = %q{TODO: Description}
+  gem.summary       = %q{A ruby implementation of the Emacs RPC stack.}
+  gem.description   = %q{EPC ruby implementation}
   gem.license       = "MIT"
   gem.authors       = ["Renaud AUBIN"]
   gem.email         = "root@renaud.io"
